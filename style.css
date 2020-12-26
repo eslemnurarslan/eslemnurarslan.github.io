@@ -495,4 +495,31 @@ transform: scale(1.3);
 .yukaricikk{
 	margin-top:23% ;
 }
+@media all and (max-width: 736px) { 
+	   
+	#menu ul li a{
+		color: white;
+		text-decoration: none;
+		font-size: 20px;
+		font-family: Montserrat, sans-serif;
+		background-color: #800000;
+		display: block;
+		padding: 10px;
+		border-bottom:1px solid black;
+		transition-duration: 0.5s;
+		border-radius: 5px;
+		font-style: italic;
+		font-style: bold;
+	}
 
+	#söz{
+		margin-left: 740px;
+		margin-top: 19px;
+		text-align: right;
+		font-style: italic;
+		font-size:10px;
+		
+	  
+	  }
+
+}
